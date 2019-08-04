@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="myIM:Web exploded">
+    <output-path>D:/EclipseWorkSpace/apache-tomcat-7.0.56-2/webapps</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="myIM/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="myIM" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
